@@ -8,7 +8,11 @@ This repository contains 3 Python mini projects.
 Student Result Analyzer using:
 
 •Variables
+
 •List
+
 •Functions
+
 •Loops
+
 •Conditions
