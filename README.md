@@ -16,3 +16,32 @@ Student Result Analyzer using:
 •Loops
 
 •Conditions
+
+### 2.q2_library_system.py
+Library Management System using:
+
+•Dictionary
+
+•Tuple
+
+•List
+
+•Set
+
+•Functions
+
+### 3. q3_shopping_cart.py
+Shopping Cart Program using:
+
+•Functions
+
+•Mutable vs Immutable
+
+•Default Parameters
+
+•List and Dictionary
+
+# How to Run
+Open terminal and run:
+python q1_result_analyzer.py
+
